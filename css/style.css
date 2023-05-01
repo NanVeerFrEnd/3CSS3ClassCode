@@ -1,0 +1,64 @@
+h3{
+    text-align: center;
+    background-color: rgb(200, 255, 0);
+    color:crimson;
+    font-size: 36px;
+    font-family: verdana;
+    padding: 15px;
+    margin: 20px;
+    border: 5px dotted crimson;
+}
+h4{
+    text-align: center;
+    background-color:aqua;;
+    color:brown;
+    font-size: 30px;
+    font-family: verdana;
+    padding: 15px;
+    margin: 20px;
+    border: 5px dashed brown;
+    /*border: dotted,ridge, groove;
+    visibility: hidden(occupies spies but the element is hidden);
+    display: none(space is removed along with the hidden element);*/
+    
+}
+.div1{
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+    background-color: blue;
+    font-size: 24px;
+    font-family: verdana;
+    margin: 20px;
+}
+.div2{
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    background-color: red;
+    font-size: 24px;
+    font-family: verdana;
+    margin: 20px;
+}
+.div3{
+    width: 750px;
+    padding: 10px;
+    text-align: center;
+    background-color: green;
+    font-size: 24px;
+    font-family: verdana;
+    margin: 20px;
+}
+img{
+    /* position: absolute;
+    position: relative;
+    opacity: 0.5;
+    left: 150px;
+    top: 100px; */
+    height: 300px;
+    width: 300px;
+}
+
+img:hover{
+    opacity: 0.5;
+}
